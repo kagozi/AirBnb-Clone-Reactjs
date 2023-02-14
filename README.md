@@ -6,6 +6,7 @@
 ## Copy the .firebaserc_example and use the name of the application on default field:
 ## `mv .firebaserc_example .firebaserc`
 
+## Start a local server
 ### `npm start`
 
 Runs the app in the development mode.<br />
